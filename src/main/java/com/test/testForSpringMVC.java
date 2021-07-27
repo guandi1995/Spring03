@@ -7,5 +7,6 @@ package com.test;
 public class testForSpringMVC {
     public static void main(String[] args) {
         System.out.println("test for spring SSM");
+        System.out.println("test for spring ssm again");
     }
 }
